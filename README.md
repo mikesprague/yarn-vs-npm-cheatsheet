@@ -1,4 +1,4 @@
-Last Updated: October 19, 2016
+Last Updated: October 23, 2016
 
 # Yarn vs NPM Commands Cheat Sheet
 
@@ -84,3 +84,9 @@ I'm skipping the items that they warn against using like [`yarn clean`](https://
 * [:bird::speech_balloon: Yarn on Twitter - https://twitter.com/yarnpkg](https://twitter.com/yarnpkg)
 
 * [:octocat: Yarn on GitHub - https://github.com/yarnpkg/yarn](https://github.com/yarnpkg/yarn)
+
+## Printable (PDF) Version
+
+[![Yarn vs NPM PDF Cheat Sheet Preview](https://github.com/mikesprague/yarn-vs-npm-cheatsheet/blob/master/assets/yarn-vs-npm-pdf-cheatsheet-preview.png?raw=true "Yarn vs NPM PDF Cheat Sheet Preview (Click to Download)")](https://github.com/mikesprague/yarn-vs-npm-cheatsheet/blob/master/assets/yarn-vs-npm-cheatsheet.pdf?raw=true)
+
+[Download PDF](https://github.com/mikesprague/yarn-vs-npm-cheatsheet/blob/master/assets/yarn-vs-npm-cheatsheet.pdf?raw=true)

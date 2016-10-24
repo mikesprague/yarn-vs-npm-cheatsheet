@@ -31,7 +31,7 @@ Version number moves, upgrade is happening! **_WARNING_** `npm update --save` se
 
 * `npm install taco --global` === `yarn global add taco` — As always, use global flag with care.
 
-### What you already know about yarn
+## What you already know about yarn
 The packages are the same as on the NPM registry. Yarn is basically a new installer, where NPM structure and registry is the same.
 
 * `npm init` === `yarn init`
@@ -52,7 +52,7 @@ The packages are the same as on the NPM registry. Yarn is basically a new instal
 
 * `npm test` === `yarn test`
 
-### Things yarn has that NPM doesn’t
+## Things yarn has that NPM doesn’t
 I'm skipping the items that they warn against using like [`yarn clean`](https://yarnpkg.com/en/docs/cli/clean)
 
 * `yarn licenses ls` — Allows you to inspect the licenses of your dependencies
@@ -69,13 +69,13 @@ I'm skipping the items that they warn against using like [`yarn clean`](https://
 
 * Security-centric design
 
-### Things NPM has that yarn doesn’t
+## Things NPM has that yarn doesn’t
 
 * `npm xmas` === **NO EQUIVALENT**
 
 * `npm visnup` === **NO EQUIVALENT**
 
-### Useful Links
+## Useful Links
 
 * [:notebook: Official Documentation - https://yarnpkg.com/en/docs/](https://yarnpkg.com/en/docs/)
 

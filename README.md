@@ -87,6 +87,8 @@ I'm skipping the items that they warn against using like [`yarn clean`](https://
 
 ## Printable (PDF) Version
 
+[Download PDF](https://github.com/mikesprague/yarn-vs-npm-cheatsheet/blob/master/assets/yarn-vs-npm-cheatsheet.pdf?raw=true)
+
 [![Yarn vs NPM PDF Cheat Sheet Preview](https://github.com/mikesprague/yarn-vs-npm-cheatsheet/blob/master/assets/yarn-vs-npm-pdf-cheatsheet-preview.png?raw=true "Yarn vs NPM PDF Cheat Sheet Preview (Click to Download)")](https://github.com/mikesprague/yarn-vs-npm-cheatsheet/blob/master/assets/yarn-vs-npm-cheatsheet.pdf?raw=true)
 
 [Download PDF](https://github.com/mikesprague/yarn-vs-npm-cheatsheet/blob/master/assets/yarn-vs-npm-cheatsheet.pdf?raw=true)
